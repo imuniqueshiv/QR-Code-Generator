@@ -1,0 +1,3 @@
+netflix: https://www.netflix.com
+
+pinterest: https://www.pinterest.com
